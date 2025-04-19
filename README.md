@@ -1,4 +1,4 @@
-Datasets, packagesm, and software
+Datasets, packages, and software
 
 The repository contains all the material to run the experiments on gathering data and on analyzing patterns with Iramuteq.
 
